@@ -1,0 +1,14 @@
+Trabajo final
+
+dias de la SEMANA
+Lunes
+Martes
+Miercoles
+Jueves
+Viernes
+
+estaciones
+vernao
+invierno
+otoño
+primavera
